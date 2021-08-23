@@ -1,4 +1,4 @@
-#### Cronometro
+# Cronometro
 
 #### TECNOLOGIAS USADAS
 
