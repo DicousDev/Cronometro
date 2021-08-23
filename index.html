@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h2 class="timerTitle">Cronômetro</h2>
+        </header>
+        <fieldset>
+            <div class="timer">
+                <h3 id="time">00:00:00</h3>
+            </div>
+            <footer class="settings">
+                <button onclick="initTime();">INICIAR</button>
+                <button onclick="pauseTime();" disabled>PAUSAR</button>
+                <button onclick="stopTime();">REINICIAR</button>
+            </footer>
+        </fieldset>
+        <script src="main.js"></script>
+    </body>
+</html>
