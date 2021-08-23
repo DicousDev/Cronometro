@@ -11,4 +11,4 @@
 
 #### O que aprendi
 
-Terminando esse projeto, aprendi a manipular o tempo com Javascript, além de ter aprendido um pouco mais de estilização (CSS).
+Terminando esse projeto, aprendi a manipular o tempo em Javascript, além de ter aprendido um pouco mais sobre posicionamento de elementos no CSS.
