@@ -20,7 +20,6 @@ function showTime() {
 }
 
 function initTime() {
-    
     if(!isTime)
     {
         isTime = true;
